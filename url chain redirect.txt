@@ -1,0 +1,20 @@
+#Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js (Express.js), Axios
+Other Requirements: cors (Cross-Origin Resource Sharing)
+
+
+# Clone the website from the git using the file download or by URL.
+
+#After clone of webiste install the node modules to run the webpage.
+
+#Install the Required packages and the cors(Cross-Origin Resource Sharing) to Analyze and follow redirects.
+
+#Install Required Packages
+1. npm install express axios cors
+
+#Start the Backend
+node server.js
+
+#After the URL verification it redirect to the respective webpage. 
